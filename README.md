@@ -15,6 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=grey)
+![Vue](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=grey)
+![ThreeJS](https://img.shields.io/badge/threedotjs-61DAFB.svg?&style=for-the-badge&logo=threedotjs&logoColor=grey)
+![R3F](https://img.shields.io/badge/threedotjs-61DAFB.svg?&style=for-the-badge&logo=threedotjs&logoColor=grey)
+![Vite](https://img.shields.io/badge/vite-61DAFB.svg?&style=for-the-badge&logo=vite&logoColor=grey)
+![Redux Toolkit](https://img.shields.io/badge/redux-61DAFB.svg?&style=for-the-badge&logo=redux&logoColor=grey)
+![StompJS](https://img.shields.io/badge/socketdotio-61DAFB.svg?&style=for-the-badge&logo=socketdotio&logoColor=grey)
+![Tailwind CSS](https://img.shields.io/badge/css3-61DAFB.svg?&style=for-the-badge&logo=css3&logoColor=grey)
+
 
 ## 🏓Tools
 
