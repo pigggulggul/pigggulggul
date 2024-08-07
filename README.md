@@ -16,12 +16,12 @@
 ![typescript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=grey)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue&logoColor=grey)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=grey)
-![R3F](https://img.shields.io/badge/R3F-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=grey)
+![ThreeJS](https://img.shields.io/badge/ThreeJS-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
+![R3F](https://img.shields.io/badge/R3F-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=grey)
-![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=grey)
-![StompJS](https://img.shields.io/badge/StompJS-010101.svg?&style=for-the-badge&logo=socketdotio&logoColor=grey)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-61DAFB.svg?&style=for-the-badge&logo=css3&logoColor=grey)
+![Redux Toolkit](https://img.shields.io/badge/ReduxToolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![StompJS](https://img.shields.io/badge/StompJS-010101.svg?&style=for-the-badge&logo=socketdotio&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-61DAFB.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 🏓Tools
